@@ -1,6 +1,6 @@
-﻿using Tyuiu.SpirinIS.Sprint0.Task5.V0.Lib;
+﻿using Tyuiu.KomarovNA.Sprint0.Task5.V0.Lib;
 
-namespace Tyuiu.SpirinIS.Sprint0.Task5.V0
+namespace Tyuiu.KomarovNA.Sprint0.Task5.V0
 {
     class Program
     {

@@ -1,5 +1,5 @@
 ﻿
-namespace Tyuiu.SpirinIS.Sprint0.Task5.V0.Lib
+namespace Tyuiu.KomarovNA.Sprint0.Task5.V0.Lib
 {
     public class DataService
     {
